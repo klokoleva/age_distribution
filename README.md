@@ -1,16 +1,6 @@
-# agedistribution
+How do you tell the age of someone from their name? Well, here is a fun little APPS that you can use. Age Distribution is used for predicting the age of a person given their name.
 
-A new Flutter project.
+preview
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20230218-170251](https://user-images.githubusercontent.com/11715564/219854889-598fed68-947a-4d87-a427-7b0af8db52e3.jpg)
+![Screenshot_20230218-170259](https://user-images.githubusercontent.com/11715564/219854885-cb8038d1-3a4e-4e1d-b9ad-b19118dd1d07.jpg)
